@@ -5,7 +5,7 @@ public class Hello {
 	public String displayHelloMessage(String message){
 		String msg;
 		if(message != null) {
-			msg = message)
+			msg = message;
 		} else {
 			msg = "test";	
 		}
